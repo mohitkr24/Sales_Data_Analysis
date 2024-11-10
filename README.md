@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI.git
+  gh repo clone mohitkr24/Sales_Data_Analysis
 ```
 
 Go to the project directory and open ``` .pbix ``` file with Microsoft Power BI Desktop
